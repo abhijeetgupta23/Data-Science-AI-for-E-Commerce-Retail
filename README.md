@@ -1,4 +1,5 @@
-# AI for Business Ventures
+# Data Science / AI for E-Commerce and Retail 
+
 This repository showcases how Data Science, AI and Advanced Analytics can be applied by Businesses to optimize margins, minimize costs, personalize marketing, predict sales propensity, identify upsell and cross-sell opportunities etc..
 
 <h2> Cost Forecasting </h2>
