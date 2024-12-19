@@ -16,4 +16,4 @@ Involves analyzing how changes in price affect demand to determine optimal prici
 <img src="https://github.com/user-attachments/assets/6e63503f-c017-47d3-a6ce-b31fc539fb7e" width="800">
 
 
-Project Link - [https://github.com/abhijeetgupta23/Data-Science-AI-for-E-Commerce-Retail/blob/main/Cost_Forecasting.ipynb](https://github.com/abhijeetgupta23/Data-Science-AI-for-E-Commerce-Retail/blob/main/Margin_Optimization_Price_Elasticity.ipynb)
+Project Link - https://github.com/abhijeetgupta23/Data-Science-AI-for-E-Commerce-Retail/blob/main/Margin_Optimization_Price_Elasticity.ipynb
