@@ -5,7 +5,7 @@ This repository showcases how Data Science, AI and Advanced Analytics can be app
 
 Essential for effective budgeting, risk management, and strategic decision-making, ensuring financial stability and long-term growth.
 
-<img src="https://github.com/user-attachments/assets/22f4c7f3-c902-47c8-9476-ec3d04587adc" width="400" align="center">
+<p align="center"><img src="https://github.com/user-attachments/assets/22f4c7f3-c902-47c8-9476-ec3d04587adc" width="400"></p>
 
 Project Link - https://github.com/abhijeetgupta23/Data-Science-AI-for-E-Commerce-Retail/blob/main/Cost_Forecasting.ipynb
 
@@ -13,6 +13,6 @@ Project Link - https://github.com/abhijeetgupta23/Data-Science-AI-for-E-Commerce
 
 Involves analyzing how changes in price affect demand to determine optimal pricing strategies that maximize profit margins while balancing revenue and sales volume
 
-<img src="https://github.com/user-attachments/assets/6e63503f-c017-47d3-a6ce-b31fc539fb7e" width="800" align="center">
+<p align="center"><img src="https://github.com/user-attachments/assets/6e63503f-c017-47d3-a6ce-b31fc539fb7e" width="800"></p>
 
 Project Link - https://github.com/abhijeetgupta23/Data-Science-AI-for-E-Commerce-Retail/blob/main/Margin_Optimization_Price_Elasticity.ipynb
